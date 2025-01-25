@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_Amigos">#FF5252</color>
+    <color name="color_Cine">#FF4081</color>
+    <color name="color_Comida">#E040FB</color>
+    <color name="color_Conciertos">#7C4DFF</color>
+    <color name="color_Cultura">#536DFE</color>
+    <color name="color_Deportes">#448AFF</color>
+    <color name="color_Familia">#40C4FF</color>
+    <color name="color_Internet">#64FFDA</color>
+    <color name="color_Urgente">#69F0AE</color>
+    <color name="color_Viajes">#B2FF59</color>
+</resources>

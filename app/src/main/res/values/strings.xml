@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bloc de notas temáticas</string>
+    <string name="lbl1">URGENTE</string>
+    <string name="lbl2">VIAJES</string>
+    <string name="lbl3">CONCIERTO</string>
+    <string name="lbl4">FAMILIA</string>
+    <string name="lbl5">AMIGOS</string>
+    <string name="lbl6">DEPORTES</string>
+    <string name="lbl7">CULTURA</string>
+    <string name="lbl8">COMIDA</string>
+    <string name="lbl9">INTERNET</string>
+    <string name="lbl10">CINE</string>
+</resources>
